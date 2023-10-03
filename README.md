@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahraanhussain
 - 👀 I’m interested in Software developement
-- 🌱 I’m currently learning ROR
+- 🌱 I’m currently Working as webscraping Engineer
 - 📫 How to reach me ...
   linkedin: https://www.linkedin.com/in/shahraan-hussain-27869a109/
 
